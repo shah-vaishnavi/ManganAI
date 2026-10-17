@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 64" role="img" aria-label="ManganAI">
+  <style>.w{fill:#23272e}.a{fill:#b8860b}@media (prefers-color-scheme:dark){.w{fill:#f3efe6}.a{fill:#e6b422}}</style>
+  <g>
+    <path d="M32 3 57 17.5v29L32 61 7 46.5v-29z" fill="#23272e"/>
+    <path d="M32 3 57 17.5 32 32 7 17.5z" fill="#34393f"/>
+    <path d="M12 38 32 49.5 52 38v-5L32 44.5 12 33z" fill="#b8860b"/>
+    <path d="M12 46 32 57.5 52 46v-5L32 52.5 12 41z" fill="#8a6a2a" opacity=".85"/>
+    <path d="M32 32 57 17.5M32 32 7 17.5M32 32v12.5" stroke="#e6b422" stroke-width="1.6" fill="none"/>
+    <circle cx="32" cy="32" r="4.2" fill="#e6b422"/>
+    <circle cx="57" cy="17.5" r="2.8" fill="#f3efe6"/><circle cx="7" cy="17.5" r="2.8" fill="#f3efe6"/><circle cx="32" cy="3" r="2.8" fill="#f3efe6"/>
+  </g>
+  <text x="74" y="40" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="34" font-weight="700" letter-spacing="-.5"><tspan class="w">Mangan</tspan><tspan class="a">AI</tspan></text>
+  <text x="76" y="57" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="8.5" letter-spacing="1.6" class="w" opacity=".65">MINING INTELLIGENCE PLATFORM</text>
+</svg>

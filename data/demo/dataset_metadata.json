@@ -1,0 +1,14 @@
+{
+  "synthetic": true,
+  "seed": 16107,
+  "generated_at": "2026-10-17T11:18:27",
+  "rows": {
+    "geological": 1500,
+    "environmental": 1500,
+    "drilling": 400,
+    "production": 1095,
+    "equipment": 750,
+    "weather": 1095,
+    "blasting": 400
+  }
+}
